@@ -188,9 +188,12 @@ td,th{
 
 #contact h2{
   text-align: center;
+  color: white;
 }
 #contact{
   color:white;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
 }
 #contactdetails h2{
   text-align: left;
