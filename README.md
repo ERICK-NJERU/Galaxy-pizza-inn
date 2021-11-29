@@ -13,7 +13,7 @@ This is a web application for Top galaxy pizzas which is a pizza selling venture
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ``` ```
+* git clone ```git@github.com:ERICK-NJERU/Galaxy-pizza-inn.git```
 
 * cd Galaxy-pizza-inn
 
