@@ -150,6 +150,9 @@ nav .navbar{
   padding-top: 4%;
   padding-bottom: 4%;
 }
+.card-title {
+  color: red;
+}
 .order-overlay{
   background-color: rgba(0, 0, 0, 0.8);
   margin-left: 2%;
@@ -217,7 +220,7 @@ td,th{
   font-size: 22px;
   padding-right: 8%;
   padding-left: 5%;
-  color: #ffa500;
+  color: red;
 }
 @media only screen and (max-width: 485px){
   .flex-xs-column {
