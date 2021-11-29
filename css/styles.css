@@ -13,11 +13,14 @@ body{
 
 h1 {
   letter-spacing: 8px;
-  color: orange;
+  color: red;
   font-weight: bolder;
   font-family: 'Wallpoet', cursive;
   font-size: 60px;
   text-shadow: 2px 2px 5px rgb(8, 156, 5);
+  margin-top: 0%;
+  padding-top: 0%;
+  z-index: 1;
 }
 h2 {
   color: red;
@@ -49,6 +52,13 @@ nav .navbar{
   font-size: 20px;
   font-weight: 700;
   color: red;
+}
+#galaxy {
+  margin-top: 10%;
+  float: left;
+  height: 350px !important;
+
+
 }
 
 .landing{
